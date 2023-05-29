@@ -1,0 +1,5 @@
+name- om pusadkar
+class-TE IT
+roll number-64
+Subject- LP2 WAD
+Description - this is file 1
